@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Main-->
+    <color name="colorPrimary">#2acc14</color>
+    <color name="colorPrimaryDark">#239015</color>
+    <color name="colorPrimaryLight">#2fe617</color>
+    <color name="colorAccent">#ffcc00</color>
+
+	<color name="divider">#efebef</color>
+	<color name="textColor">#181808</color>
+
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_pressed">#c8ffffff</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
